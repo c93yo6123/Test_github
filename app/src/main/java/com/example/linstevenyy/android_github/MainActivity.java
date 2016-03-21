@@ -29,6 +29,6 @@ public class MainActivity extends AppCompatActivity {
         WebSettings webSettings = wv.getSettings();
         webSettings.setLayoutAlgorithm(WebSettings.LayoutAlgorithm.SINGLE_COLUMN);
         wv.loadUrl("http://tw.yahoo.com");
-        tv.setText("123");
+        tv.setText("1234");
     }
 }
